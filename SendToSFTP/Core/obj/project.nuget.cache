@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "BbB4anpBJfyw37e+611bj1+Ahm/9G0+D7DWaBj2wctq/4YmTvspPb8EjGb8jR18OmVn5ItJ0ffnVc8/gYZo4XA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\furka\\source\\repos\\SendToSFTP\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furka\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\ssh.net\\2020.0.2\\ssh.net.2020.0.2.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\sshnet.security.cryptography\\1.3.0\\sshnet.security.cryptography.1.3.0.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\winscp\\5.21.6\\winscp.5.21.6.nupkg.sha512"
+  ],
+  "logs": []
+}

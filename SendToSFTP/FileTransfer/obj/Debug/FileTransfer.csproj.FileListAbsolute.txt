@@ -1,0 +1,11 @@
+C:\Users\furka\source\repos\SendToSFTP\FileTransfer\bin\Debug\FileTransfer.exe.config
+C:\Users\furka\source\repos\SendToSFTP\FileTransfer\bin\Debug\FileTransfer.exe
+C:\Users\furka\source\repos\SendToSFTP\FileTransfer\bin\Debug\FileTransfer.pdb
+C:\Users\furka\source\repos\SendToSFTP\FileTransfer\obj\Debug\FileTransfer.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\SendToSFTP\FileTransfer\obj\Debug\FileTransfer.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\source\repos\SendToSFTP\FileTransfer\obj\Debug\FileTransfer.Form1.resources
+C:\Users\furka\source\repos\SendToSFTP\FileTransfer\obj\Debug\FileTransfer.Properties.Resources.resources
+C:\Users\furka\source\repos\SendToSFTP\FileTransfer\obj\Debug\FileTransfer.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\SendToSFTP\FileTransfer\obj\Debug\FileTransfer.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\SendToSFTP\FileTransfer\obj\Debug\FileTransfer.exe
+C:\Users\furka\source\repos\SendToSFTP\FileTransfer\obj\Debug\FileTransfer.pdb

@@ -1,0 +1,17 @@
+2022-12-27 01:17:43.524 +03:00 [INF] SFTP connection is started.
+2022-12-27 01:18:13.778 +03:00 [ERR] Connection could not established. Renci.SshNet.Common.SshOperationTimeoutException: Socket read operation has timed out after 30000 milliseconds.
+   at Renci.SshNet.Abstractions.SocketAbstraction.Read(Socket socket, Byte[] buffer, Int32 offset, Int32 size, TimeSpan readTimeout)
+   at Renci.SshNet.Connection.ProtocolVersionExchange.SocketReadLine(Socket socket, TimeSpan timeout, List`1 buffer)
+   at Renci.SshNet.Connection.ProtocolVersionExchange.Start(String clientVersion, Socket socket, TimeSpan timeout)
+   at Renci.SshNet.Session.Connect()
+   at Renci.SshNet.BaseClient.CreateAndConnectSession()
+   at Renci.SshNet.BaseClient.Connect()
+   at Core.Manager.Concrete.SFTPManager.SendToSFTP(List`1 filesToUpload, SFTPConnectionModel connectionModel) in C:\Users\furka\source\repos\SendToSFTP\Core\Manager\Concrete\SFTPManager.cs:line 18
+2022-12-27 02:37:04.202 +03:00 [INF] session established
+2022-12-27 02:38:26.137 +03:00 [INF] session established
+2022-12-27 02:39:48.121 +03:00 [INF] session established
+2022-12-27 02:41:42.231 +03:00 [INF] session established
+2022-12-27 02:42:00.800 +03:00 [INF] session established
+2022-12-27 02:43:41.117 +03:00 [INF] session established
+2022-12-27 02:44:45.803 +03:00 [INF] session established
+2022-12-27 02:48:23.860 +03:00 [INF] session established
